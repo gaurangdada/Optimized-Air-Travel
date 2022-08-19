@@ -1,4 +1,4 @@
-# CS 225 Final Project jtw6-dada3-mylestm2
+# Final Project jtw6-dada3
 
 ## [Video](https://drive.google.com/file/d/1ZRWRF6l9ZnkPYXckeGQIRglWIXSMcrXr/view?usp=sharing)  (earphones highly recommended)
 ## Code locations
